@@ -1,5 +1,5 @@
 # Ход работы:
-![log](/IBS_task\log_graph.png)
+![log](log_graph.png)
 1. Склонировал репозиторий, используя команду: 
 > `git clone https://github.com/CanUFeelMyHeart/IBS.git IBS_task` 
 
