@@ -1,4 +1,4 @@
-# Ход работы
+# Ход работы:
 
 1. Склонировал репозиторий, используя команду: 
 > `git clone https://github.com/CanUFeelMyHeart/IBS.git IBS_task` 
@@ -11,3 +11,10 @@
 
 Все дальнейшие манипуляции можно сохранять через команду (новых файлов не будет создано):
 > `git commit -am "text"`
+
+3. Создаем и переходим в ветку `feature`, используя команды:
+> `git branch feature`  
+`git checkout feature`  
+
+**ИЛИ**  
+> `git checkout -b feature`
