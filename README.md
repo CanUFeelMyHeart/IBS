@@ -1,5 +1,5 @@
 # Ход работы:
-
+![log](/IBS_task\log_graph.png)
 1. Склонировал репозиторий, используя команду: 
 > `git clone https://github.com/CanUFeelMyHeart/IBS.git IBS_task` 
 
@@ -23,3 +23,4 @@
 4. Внесли изменения в  каждую из веток. Переходим в ветке `feature`, в которую будем мерджить `master`:
 > `git merge master`
 При слиянии получаем `merge conflict` и решаем его
+
